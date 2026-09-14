@@ -1,0 +1,50 @@
+SRQ2026000001|Building Concern|Vista Ridge|9574 Elm Way|3|In Progress|2024-12-26|Water Bureau|Loose exterior materials
+SRQ2026000002|Trash Pickup|Eastgate|Oak Ave & Hill Dr|2|Open|2026-01-21|Public Works|Missed pickup on route
+SRQ2026000003|Building Concern|Hillside|4676 6th Blvd|3|Duplicate|2025-10-09|Parks & Recreation|Possible code violation
+SRQ2026000004|Streetlight Out|Maple Heights|7947 6th Dr|2|In Progress|2025-08-15|Transportation|Pole light completely out
+SRQ2026000005|Abandoned Vehicle|University District|10th Pl & Harbor Ave|2|In Progress|2024-05-18|Public Works|Vehicle parked for weeks
+SRQ2026000006|Broken Sign|Downtown|6430 Hill Ave|5|Closed|2024-05-10|Environmental Services|Stop sign damaged
+SRQ2026000007|Trash Pickup|Sunset|6036 River Ln|3|Duplicate|2024-02-05|Code Enforcement|Loose trash scattered
+SRQ2026000008|Broken Sign|South Park|3435 Main Ln|4|Scheduled|2024-02-15|Urban Forestry|Parking sign missing
+SRQ2026000009|Noise Complaint|Sunset|8298 Main Rd|5|Open|2024-06-01|Police Non-Emergency|Construction noise outside hours
+SRQ2026000010|Snow/Ice|Westfield|2572 Garden Way|2|Scheduled|2025-09-14|Water Bureau|Snow blocking curb ramp
+SRQ2026000011|Noise Complaint|Westfield|1145 7th Rd|5|On Hold|2025-10-26|Animal Services|Loud music late night
+SRQ2026000012|Building Concern|Hillside|9829 6th Blvd|3|Closed|2024-01-22|Animal Services|Loose exterior materials
+SRQ2026000013|Graffiti|Eastgate|9919 Garden Blvd|3|Open|2025-01-12|Police Non-Emergency|Graffiti on sidewalk barrier
+SRQ2026000014|Storm Drain|Sunset|1200 Oak Blvd|2|Scheduled|2026-01-08|Police Non-Emergency|Drain clogged with leaves
+SRQ2026000015|Broken Sign|Cedar Grove|Elm Way & Spruce Ln|4|Duplicate|2024-08-08|Water Bureau|Street sign bent or broken
+SRQ2026000016|Noise Complaint|Pinecrest|5th Rd & Meadow Ct|1|In Progress|2025-11-28|Transportation|Construction noise outside hours
+SRQ2026000017|Traffic Signal Issue|Garden Terrace|5437 Garden Ct|4|Open|2025-10-30|Public Works|Signal timing seems off
+SRQ2026000018|Broken Sign|Maple Heights|8345 Spruce Pl|3|Closed|2024-01-27|Transportation|Stop sign damaged
+SRQ2026000019|Tree Down|Brookstone|6500 Maple Ln|2|Open|2025-03-26|Police Non-Emergency|Large branch down in roadway
+SRQ2026000020|Illegal Dumping|Cedar Grove|8868 Elm Ct|3|On Hold|2024-05-06|Code Enforcement|Bags of waste dumped
+SRQ2026000021|Road Debris|University District|9038 7th Dr|4|Duplicate|2024-12-04|Water Bureau|Glass and litter in lane
+SRQ2026000022|Storm Drain|Pinecrest|5321 Main St|4|In Progress|2025-08-07|Animal Services|Standing water near drain
+SRQ2026000023|Snow/Ice|Northview|5th Blvd & Ash Dr|3|Closed|2026-01-22|Water Bureau|Icy sidewalk needs treatment
+SRQ2026000024|Road Debris|Sunset|4th Ave & Spruce Ave|1|Closed|2025-03-05|Transportation|Glass and litter in lane
+SRQ2026000025|Sidewalk Damage|Downtown|Main Rd & Park Ter|4|Scheduled|2025-04-29|Transportation|Sidewalk uplifted by roots
+SRQ2026000026|Storm Drain|Cedar Grove|9119 Meadow Ln|2|On Hold|2024-08-12|Parks & Recreation|Standing water near drain
+SRQ2026000027|Traffic Signal Issue|Downtown|7533 Hill Ln|1|Closed|2025-11-15|Code Enforcement|Signal timing seems off
+SRQ2026000028|Pothole|University District|3375 Oak Pl|2|In Progress|2024-06-30|Parks & Recreation|Pothole reported near curb
+SRQ2026000029|Noise Complaint|Harbor Point|Birch Ln & 6th Ct|1|Closed|2024-01-11|Animal Services|Construction noise outside hours
+SRQ2026000030|Noise Complaint|Harbor Point|Cedar St & Sunset Way|1|On Hold|2024-12-17|Urban Forestry|Construction noise outside hours
+SRQ2026000031|Water Leak|Sunset|2278 Birch Ln|4|Open|2026-01-27|Police Non-Emergency|Possible pipe leak reported
+SRQ2026000032|Sewer Backup|Old Town|10th Ct & Spruce Dr|3|On Hold|2024-06-16|Public Works|Sewer odor and backup
+SRQ2026000033|Building Concern|Eastgate|3992 Park Pl|5|Duplicate|2025-03-09|Environmental Services|Loose exterior materials
+SRQ2026000034|Traffic Signal Issue|Riverside|1386 Harbor Pl|1|Scheduled|2025-09-24|Parks & Recreation|Pedestrian button not working
+SRQ2026000035|Pothole|University District|924 Cedar Ter|5|Duplicate|2024-06-17|Environmental Services|Deep pothole causing bumps
+SRQ2026000036|Broken Sign|Garden Terrace|Meadow Ave & Pine Dr|4|Scheduled|2024-01-08|Urban Forestry|Stop sign damaged
+SRQ2026000037|Road Debris|Eastgate|7631 7th Ter|2|Open|2024-02-07|Transportation|Debris on roadway
+SRQ2026000038|Trash Pickup|Harbor Point|4804 Main Ave|2|Scheduled|2025-07-29|Animal Services|Loose trash scattered
+SRQ2026000039|Abandoned Vehicle|Westfield|Willow Pl & Sunset St|5|Closed|2024-01-04|Water Bureau|Vehicle parked for weeks
+SRQ2026000040|Graffiti|Brookstone|464 Vista Pl|5|Closed|2024-09-09|Public Works|Graffiti on public wall
+SRQ2026000041|Sidewalk Damage|Lakeshore|7217 4th Rd|4|In Progress|2025-01-25|Code Enforcement|Uneven sidewalk trip hazard
+SRQ2026000042|Abandoned Vehicle|Lakeshore|4900 Main St|5|Scheduled|2025-05-23|Urban Forestry|Suspected abandoned car
+SRQ2026000043|Litter|Westfield|Oak Blvd & 10th Dr|4|In Progress|2024-11-26|Water Bureau|Needs cleanup near bus stop
+SRQ2026000044|Tree Down|University District|9867 10th Ct|1|Open|2024-09-30|Transportation|Tree down after windstorm
+SRQ2026000045|Tree Down|Brookstone|7th Dr & River Dr|4|On Hold|2024-09-13|Water Bureau|Tree down after windstorm
+SRQ2026000046|Water Leak|Downtown|3580 7th Ave|3|In Progress|2024-06-27|Transportation|Possible pipe leak reported
+SRQ2026000047|Traffic Signal Issue|Westfield|455 Elm Pl|5|On Hold|2024-02-22|Water Bureau|Signal not cycling
+SRQ2026000048|Animal Control|Industrial Way|Harbor Ln & Spruce Ln|2|On Hold|2024-05-12|Public Works|Wildlife in neighborhood
+SRQ2026000049|Animal Control|Northview|4931 2nd Ave|5|Scheduled|2024-01-28|Police Non-Emergency|Aggressive dog reported
+SRQ2026000050|Streetlight Out|Harbor Point|8th Way & Spruce Ln|5|Closed|2024-11-10|Animal Services|Streetlight not working at night
